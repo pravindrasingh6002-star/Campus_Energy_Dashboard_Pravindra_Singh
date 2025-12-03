@@ -15,5 +15,3 @@ This project analyzes campus-wide building electricity usage and creates a visua
 ✔ Export of cleaned dataset + summary CSV + summary.txt  
 
 ---
-
-## Folder Structure
